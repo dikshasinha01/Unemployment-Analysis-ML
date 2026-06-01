@@ -121,7 +121,7 @@ git clone https://github.com/dikshasinha01/CodeAlpha_Unemployment_Analysis.git
 ## 2️⃣ Open Project Folder
 
 ```bash
-cd CodeAlpha_Unemployment_Analysis
+cd Osis_UnemploymentAnalysis
 ```
 
 ## 3️⃣ Install Required Libraries
